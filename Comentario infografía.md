@@ -2,7 +2,7 @@
 
 El volcán de la isla de La Palma en datos
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fboyaca7dias.com.co%2F2021%2F09%2F28%2Finfografia-el-volcan-de-la-palma-vuelve-a-emitir-lava-y-cenizas%2F&psig=AOvVaw1gCUfQSd7tMwKmbEy_UH7-&ust=1636568599743000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiv_KLzi_QCFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/90327315/140982804-3d095a44-3382-43b6-99ae-fd8843dbad2b.png)
+https://boyaca7dias.com.co/wp-content/uploads/2021/09/infografia-volcan.jpg
 
 
 Esta infografía, recogida de la agencia EFE muestra de forma visual como serán los avances del volcán situado en La Palma, uno de los archipiélagos canarios. De esta manera se muestra gráficamente los datos importantes para el futuro de la isla.
