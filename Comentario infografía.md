@@ -2,7 +2,7 @@
 
 El volcán de la isla de La Palma en datos
 
-https://boyaca7dias.com.co/wp-content/uploads/2021/09/infografia-volcan.jpg
+![infografia volcan](https://boyaca7dias.com.co/wp-content/uploads/2021/09/infografia-volcan.jpg)
 
 
 Esta infografía, recogida de la agencia EFE muestra de forma visual como serán los avances del volcán situado en La Palma, uno de los archipiélagos canarios. De esta manera se muestra gráficamente los datos importantes para el futuro de la isla.
