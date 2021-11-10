@@ -2,7 +2,7 @@
 
 ## Así funciona el sistema electoral en Alemania
 
-https://elordenmundial.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/09/sistema-electoral-Alemania.png.webp
+![Infografía Alemania](https://elordenmundial.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/09/sistema-electoral-Alemania.png.webp)
 
 
 En esta infografía se analiza como se realiza el voto en alemania, en relación a sus últimas elecciones del pasado diciembre.
