@@ -1,8 +1,10 @@
-**Práctica 2 | Infografía desde terminal - Lucía Hernández González**
+# Práctica 2 | Infografía desde terminal - Lucía Hernández González
 
+Para el comentario crítico he analizado una infografía de las elecciones en Alemania de este año y la he comparado con otra infografía de la misma temática para observar sus diferencias y poder realizadar un estudio mayor.
 
+## Infografía 1
 
-## Así funciona el sistema electoral en Alemania
+### Así funciona el sistema electoral en Alemania
 
 ![Infografía Alemania](https://elordenmundial.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/09/sistema-electoral-Alemania.png.webp)
 
@@ -18,13 +20,33 @@ Por último, en el apartado de _La composición_ se muestra un gráfico con los 
 
 Esta infografía resulta una manera muy correcta de presentar unos datos para los lectores que quieran, por un lado, conocer los resultados de las elecciones alemanas y además para que puedan entender como funcionan las elecciones en Alemania y sus diferencias con las españolas. 
 
-Además en este caso, la información está ordenada adecuadamente, ya que los gráficos son simples y están muy diferenciados, con títulos en negrita que se diferencian del resto del texto. Asimismo, la elección de los colores de la bandera alemana sobre el fondo blanco, considero que es una decisión muy acertada ya que lo hace fácil de identificar.
+Además en este caso, la información está ordenada adecuadamente, ya que los gráficos son simples y están muy diferenciados, con títulos en negrita que se diferencian del resto del texto. Asimismo, la elección de los colores de la bandera alemana sobre el fondo blanco, considero que es una decisión muy acertada ya que lo hace fácil de identificar y además es útil, porque los mismos colores se refieren a los partidos.
 
 Por otro lado, algo que también ha sido acertado en esta infografía es que se enlazan los gráficos para conectar la información, en este caso de la más general a la más concreta. De esta manera se simplifica la información y se concreta sólo en cinco apartados visuales.
 
+## Infografía 2
+### Alemania ha votado
 
+![Infografia Alemania2](https://user-images.githubusercontent.com/90327315/142432605-291c204e-360a-4a48-89ff-e182ede7cdd2.png)
 
+Esta infografía presenta la información de con gráficos, con los  colores que representa a cada partido, sobre un fondo gris oscuro. Además sobre los gráficos con lo datos, precede un título para la infografía, `Germany has voted´.
+
+El primer gráfico de abajo a la izquierda, es un gráfico de barras en el que se representar los porcenajes de votos que ha obtenido cada partido, con el color que le define y el nombre de cada uno debajo de sus respetivas barras.
+
+En el siguiente gráfico de arriba a la derecha, se representa el orden de predominancia de cada partido, según los votos que han obtenido, en un gráfico de sectores. Al igual que el arterior, cada partido se representa con su color y el nombre indicado.
+
+Por último, en el tercer y último gráfico que aparece en la infografía se representan las posibles coaliciones que formaran los partidos para gobernar. En este caso no se indica en forma de gráfico, sino que se representa en grupos de colores que identifican a cada partido.
+
+  
+
+- Conclusiones 
+
+La idea de analizar dos gráficos en lugar de uno, tiene la finalidad de comparar los elementos que han usado en cada una para comprender qué elementos pueden ser los más adecuados para una mejor visualización de datos.
+
+A pesar de que no tienen el mismo contenido, tienen una temática similar pero se representa de maneras muy distintas. 
 
 **Bibliografía de la Infografía:**
 
-Aber Gil. (2021). Así funciona el sistema electoral en Alemania. elordenmundial
+Aber Gil. (2021). Así funciona el sistema electoral en Alemania. elordenmundial.
+https://elordenmundial.com/mapas-y-graficos/sistema-electoral-alemania/
+
