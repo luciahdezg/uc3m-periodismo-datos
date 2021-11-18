@@ -10,7 +10,7 @@
 En esta infografía se analiza como se realiza el voto en alemania, en relación a sus últimas elecciones del pasado diciembre.
 Para ello organiza la información en tres bloques que estan entremezclados entre ellos con líneas que los van uniendo.
 
-En primer lugar se encuentra _El Voto_, explica como se elige al candidato por parte de los votantes. Además explica que en este caso se hace de forma directa, a un solo candidato por distrito y después gana el candidato más votado en cada distrito de los 299 que componen Alemania. Acompañado de esta explicación aparece un mapa a escala de Alemania con los resultados de los tres candidatos de las últimas elecciones. Y debajo de esto aparece una aclaración con los escaños de cada partido, por el voto a nivel federal.
+En primer lugar se encuentra _El Voto_, explica como se elige al candidato por parte de los votantes. Además describe que en este caso se hace de forma directa, a un solo candidato por distrito y después gana el candidato más votado en cada distrito de los 299 que componen Alemania. Acompañado de esta explicación aparece un mapa a escala de Alemania con los resultados de los tres candidatos de las últimas elecciones. Y debajo de esto aparece una aclaración con los escaños de cada partido, por el voto a nivel federal.
 
 En el siguiente apartado aparecen _Los cálculos_, que como ya he mencionado van unidos de los datos anteriores con líneas. Explica como se realizan los cálculos y los escaños que se les da a cada candidato, respetando la proporcionalidad del voto a nivel nacional.
 
