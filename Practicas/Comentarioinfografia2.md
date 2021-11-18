@@ -39,7 +39,7 @@ Por último, en el tercer y último gráfico que aparece en la infografía se re
 
   
 
-- Conclusiones 
+- **Conclusiones**
 
 La idea de analizar dos gráficos en lugar de uno, tiene la finalidad de comparar los elementos que han usado en cada una para comprender qué elementos pueden ser los más adecuados para una mejor visualización de datos.
 
