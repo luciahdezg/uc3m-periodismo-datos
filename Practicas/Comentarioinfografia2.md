@@ -2,9 +2,9 @@
 
 Para el comentario crítico he analizado una infografía de las elecciones en Alemania de este año y la he comparado con otra infografía de la misma temática para observar sus diferencias y poder realizadar un estudio mayor.
 
-## Infografía 1
+### Infografía 1
 
-### Así funciona el sistema electoral en Alemania
+## Así funciona el sistema electoral en Alemania
 
 ![Infografía Alemania](https://elordenmundial.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/09/sistema-electoral-Alemania.png.webp)
 
@@ -24,8 +24,8 @@ Además en este caso, la información está ordenada adecuadamente, ya que los g
 
 Por otro lado, algo que también ha sido acertado en esta infografía es que se enlazan los gráficos para conectar la información, en este caso de la más general a la más concreta. De esta manera se simplifica la información y se concreta sólo en cinco apartados visuales.
 
-## Infografía 2
-### Alemania ha votado
+### Infografía 2
+## Alemania ha votado
 
 ![Infografia Alemania2](https://user-images.githubusercontent.com/90327315/142432605-291c204e-360a-4a48-89ff-e182ede7cdd2.png)
 
