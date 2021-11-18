@@ -10,11 +10,11 @@
 En esta infografía se analiza como se realiza el voto en alemania, en relación a sus últimas elecciones del pasado diciembre.
 Para ello organiza la información en tres bloques que estan entremezclados entre ellos con líneas que los van uniendo.
 
-En primer lugar se encuentra _El Voto_, explica como se elige al candidato por parte de los votates, que en este caso se hace de forma directa, a un solo candidato por distrito y después gana el candidato más votado en cada distrito de los 299 que componen Alemania. Acompañado de esta explicación aparece un mapa a escala de Alemania con los resultados de los tres candidatos de las últimas elecciones. Y debajo de esto aparece una aclaración con los escaños de cada partido, por el voto a nivel federal.
+En primer lugar se encuentra _El Voto_, explica como se elige al candidato por parte de los votantes. Además explica que en este caso se hace de forma directa, a un solo candidato por distrito y después gana el candidato más votado en cada distrito de los 299 que componen Alemania. Acompañado de esta explicación aparece un mapa a escala de Alemania con los resultados de los tres candidatos de las últimas elecciones. Y debajo de esto aparece una aclaración con los escaños de cada partido, por el voto a nivel federal.
 
 En el siguiente apartado aparecen _Los cálculos_, que como ya he mencionado van unidos de los datos anteriores con líneas. Explica como se realizan los cálculos y los escaños que se les da a cada candidato, respetando la proporcionalidad del voto a nivel nacional.
 
-Por último, en el apartado de _La composición_ se muestra un gráfico con los escaños de cada partido marcados en el color que les ha acompañado toda la infografía. Junto al gráfico, se muestra ademásun pequeño texto, unido del apartado anterior, aclarando el dato de que El parlamento alemán no tiene un número de miembros fijos.
+Por último, en el apartado de _La composición_ se muestra un gráfico con los escaños de cada partido marcados en el color que les ha acompañado toda la infografía. Junto al gráfico, se muestra además un pequeño texto, unido del apartado anterior, aclarando el dato de que El parlamento alemán no tiene un número de miembros fijos.
 
 Esta infografía resulta una manera muy correcta de presentar unos datos para los lectores que quieran, por un lado, conocer los resultados de las elecciones alemanas y además para que puedan entender como funcionan las elecciones en Alemania y sus diferencias con las españolas. 
 
