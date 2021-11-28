@@ -1,37 +1,49 @@
 
-# Práctica 3| Visualización de gráficos
+# Práctica 3 | Visualización de gráficos
 
 <p align = "justify">
-Para la práctica he realizado tres gráficos con los datos de *Tresca* para realizar una visualización de la variación de los datos en el tiempo. En este caso, he organizado los datos más relevantes de tres periodos estacionales, en verano, en invierno y en primavera. Para extraer los resultados he utilizado he utilizado Excel y Openrefine y para visualizar los datos he utilizado Datawrapper.</p>
+Para la práctica he realizado tres gráficos con los datos de Tresca para realizar una visualización de la variación de los datos en el tiempo. En este caso, he organizado los datos más relevantes de tres periodos estacionales, en verano, en invierno y en primavera. Para conseguir extraer estos datos he recurrido a   Openrefine y Excel y para visualizarlos de forma gráfica he utilizado Datawrapper.</p>
 
 # Proceso de realización de práctica
 
-Para realizar este gráfico primero he introducido los datos del archivo feliz en Open refine. Posteriormente he seleccionado los datos de interés en Openrefine, mendiante la selección de tiempo en los meses de junio a Septiembre. He convertido la colunma *fecha* en formato fecha, ya que tenía formato de texto y de esta manera no podía filtrar los datos. Por tanto, una vez cambiado el formato he procedido a fitrar los datos del archivo por sus respectivas fechas y he organizado los datos de forma conceptual por estaciones, pero no exactamente concretadas, sino que comprenden los meses en los que predominan estas estaciones. 
+Para realizar estos gráficos he realizado el mismo procedimiento con rangos de fechas distintos, por tanto voy a explicar cómo he realizado este proceso de selección y visualización de datos y posteriormente analizaré los resultados obetenidos con estos gráficos. 
 
-El primer  gráfico es la época de **primavera** contiene los gráficos de los tweets que comprenden los meses entre marzo y junio de 2020. Depués, el gráfico de **Verano** que contiene todos los tweets publicados entre los meses de junio y septiembre de 2020, y por último el gráfico de **Invierno** contiene los tweets publicados de noviembre de 2020 a enero de 2021.
+En primer lugar, he introducido los datos del archivo _Feliz_ de _Tresca_ en Open Refine. Posteriormente he seleccionado los datos que me interesaban en Openrefine, mendiante la selección de tiempo. Y para ello, antes de nada he convertido la colunma *fecha* en *formato fecha*, ya que tenía *formato de texto* y de esta manera no se podían filtrar los datos. Por tanto, una vez cambiado el formato he procedido a filtrar los datos del archivo por sus respectivas fechas y los he organizado  datos de forma conceptual por estaciones. Sin embargo, esta organización no corresponde exactamente con los periodos estacionales oficiales, sino que comprenden los meses aproximados en los que predominan estas estaciones y por esta razón las he titulado con estos términos. 
+
+De manera que, la organización temporal de los gráficos corresponde, en el primer  gráfico a la época de **primavera** y contiene la organización de los _hastags_ mencionados en tweets que comprenden los meses entre marzo y junio de 2020. El segundo gráfico titulado **Verano**, contiene todos los _hastags_ publicados entre los meses de junio y septiembre de 2020, y por último el gráfico de **Invierno** contiene los _hastags_ publicados de noviembre de 2020 a enero de 2021.
 
 
-Seguidamente, en la columna de los tweets he utilizado la función facetfound para contar todos los tweets que tuvieran las mismas palabras, es decir el mismo tweet. Esto me ha generado una nueva columna en la que aparecía el recuendo de cuantas veces se repetían los tweets correspondientes. Depués, estos datos los he exportado en formato csv a excel.
+Seguidamente, en la columna de los _hastags_ he utilizado la función _facetfound_ para contar todos los tweets que tuvieran las mismas palabras, es decir el mismo _hastag_ repetido. Esto me ha generado una nueva columna en la que aparecía el recuento de las veces en las que se repetían los tweets correspondientes. Depués, estos datos los he exportado en formato _csv_ a Excel.
 
-Seguidamente, en la columna de los tweets he utilizado la función facetfound para contar todos los tweets que tuvieran las mismas palabras, es decir el mismo tweet. Esto me ha generado una nueva columna en la que aparecía el recuendo de cuantas veces se repetían los tweets correspondientes. Depués, estos datos los he exportado en formato csv a excel.
 
-En excel, primero he quitado los valores repetidos, para quedarme con sólo con una representacion de cada tweeet y para representarlo en el gráfico de forma visual, he seleccionado, los 20 más relevantes, es decir, los mas repetidos de cada seleccion de datos. 
+En Excel, primero he quitado los valores repetidos, para quedarme con sólo con una representacion de cada tweeet y para plasmarlo en el gráfico de forma visual, he seleccionado, los 20 más relevantes, es decir, los mas repetidos de cada seleccion de datos. 
 
-Por ultimo, despues de seleccionar y guardar estos datos en Excel, en formato csv, he importado estas hojas de excel en Datawrapper y para obtener el grá
-Seguidamente, en la columna de los tweets he utilizado la función facetfound para contar todos los tweets que tuvieran las mismas palabras, es decir el mismo tweet. Esto me ha generado una nueva columna en la que aparecía el recuendo de cuantas veces se repetían los tweets correspondientes. Depués, estos datos los he exportado en formato csv a excel.fico que buscaba, he escondido las columnas que no me interesaban en este caso para quedarme solo con los tweets y sus repeticiones. Por tanto se ha realizado el grafico correspondiente con los datos introducidos y para representarlos he elegido el grafico de barras en todos para un mejor analisis comparativo.
+Por último, despues de seleccionar y guardar estos datos en Excel, en formato _csv_, he importado estas hojas de Excel en Datawrapper y para obtener el gráfico que  buscaba, he escondido las columnas que no me interesaban en este caso para quedarme solo con los tweets y sus repeticiones. Por tanto se ha realizado el gráfico correspondiente con los datos introducidos y para representarlos he elegido el grafico de barras en los tres para llevar a cabo un mejor analisis comparativo.
 
 
 # Resultado Gráficos
 
+El objetivo de la selección de estos datos es observar la difencia de las felicitaciones y de las festividades según el avance temporal del año, en un aspecto generalizado.
 
 ## Gráfico 1
 
 ![alt text](https://github.com/luciahdezg/uc3m-periodismo-datos/blob/main/Imagenes/gla9d-tweets-primavera.png)
 
+En el primer gráfico predominan las felicitaciones de los días de la semana, en cabeza en el gráfico, continua con felicitaciones generales y también las correspondientes con el Día del Padre y el Día de la madre que se encuentran en esta determinación temporal, puesto que son el el mes de marzo y mayo, respetivamente. Finalemente, en los últimos aparece de forma escasa alguna felitación de la Pascua de Resurrección.
+
 ## Gráfico 2 
 
 ![alt text](https://github.com/luciahdezg/uc3m-periodismo-datos/blob/main/Imagenes/L58RC-tweets-verano-br-.png)
 
+En los tweets correspondientes a los meses de verano, predomina de nuevo las felicitaciones a los días de la semana, algunas correspondientes a festividades fuera de estas fechas y también algún feliz cumpleaños, en el que se habrá viralizado el _hastag_ correspondiente.
+
 ## Gráfico 3
 
 ![alt text](https://github.com/luciahdezg/uc3m-periodismo-datos/blob/main/Imagenes/MfiXz-tweets-invierno-br-.png)
+
+En este último gráfico, de nuevo predominan las felicitaciones a los días de la semana, muy por encima del resto. Y en este caso, puesto que las fechas corresponden a las festividades de Navidad, comienzan las felicitaciones navideñas y de fin de año.
+
+- **Conclusión**
+
+Analizando los tres gráficos distintos, me ha llamado la atención que predominen en todos las felicitaciones de los días de la semana. Demuestra los ánimos y la postividad con la que los twitteros frecuentes, comienzan el día de la semana. Además es curioso y parádojico que además, el día que precede siempre es el martes, puesto que va unido a la mala suerte. Especialmente me resulta sorprendente que en la época de invierno no predomine las festividades navideñas o la felicitación de año, que suele ser bastante frecuente. En conclusión, me parece interesante analizar como a pesar de que van cambiando los intereses y las rutinas de la población, (por lo menos de la población activa en twitter) según el mes o la época del año en año en la que se encuentren, tienen en común las mismas felicitaciones durante todo el año.
+
