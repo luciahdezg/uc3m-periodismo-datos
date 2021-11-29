@@ -6,7 +6,7 @@ Para la tercera práctica he realizado tres gráficos con los datos de Tresca co
 
 # Proceso de realización de práctica
 
-Para realizar estos gráficos he realizado el mismo procedimiento con rangos de fechas distintos, por tanto voy a explicar cómo he realizado este proceso de selección y visualización de datos y posteriormente analizaré los resultados obetenidos con estos gráficos. 
+Para realizar estos gráficos he llevado a cabo el mismo procedimiento con rangos de fechas distintos, por tanto voy a explicar cómo he ejecutado este proceso de selección y visualización de datos y posteriormente analizaré los resultados obetenidos con estos gráficos. 
 
 En primer lugar, he introducido los datos del archivo _Feliz_ de _Tresca_ en Open Refine. Posteriormente he seleccionado los datos que me interesaban en Openrefine, mendiante la selección de tiempo. Y para ello, antes de nada he convertido la **columna fecha** en *formato fecha*, ya que tenía *formato de texto* y de esta manera no se podían filtrar los datos. Por tanto, una vez cambiado el formato he procedido a filtrar los datos del archivo por sus respectivas fechas y los he organizado   de forma conceptual por estaciones. Sin embargo, esta organización no corresponde exactamente con los periodos estacionales oficiales, sino que comprenden los meses aproximados en los que predominan estas estaciones y por esta razón las he titulado con estos términos.
   
@@ -18,7 +18,7 @@ Seguidamente, en la columna de los _hastags_ he utilizado la función _facetfoun
 
 En Excel, primero he quitado los valores repetidos, para quedarme con sólo con una representacion de cada tweeet y para plasmarlo en el gráfico de forma visual. Después los he ordenado de mayor a menor número de repeticiones y he seleccionado los 20 más relevantes, es decir, los mas repetidos de cada seleccion de datos. 
 
-Por último, despues de seleccionar y guardar estos datos en Excel (En formato _csv_), he importado estas hojas de Excel en Datawrapper y para obtener el gráfico que  buscaba, he escondido las columnas que no me interesaban con la opción de _Hide column from visualization_, en este caso para quedarme solo con los tweets y sus repeticiones. Por tanto se ha realizado el gráfico correspondiente con los datos introducidos y para representarlos he elegido el grafico de barras en los tres para llevar a cabo un mejor analisis comparativo.
+Por último, despues de seleccionar y guardar estos datos en Excel (En formato _csv_), he importado estas hojas de Excel en Datawrapper y para obtener el gráfico que  buscaba, he escondido las columnas que no me interesaban con la opción de _Hide column from visualization_, en este caso para quedarme solo con los tweets y sus repeticiones. Por tanto, se ha realizado el gráfico correspondiente con los datos introducidos y para representarlos he elegido el grafico de barras en los tres para llevar a cabo un mejor analisis comparativo.
 
 
 # Resultado Gráficos
