@@ -4,7 +4,7 @@
 <p align = "justify">
 Para la tercera práctica he realizado tres gráficos con los datos de Tresca con el objetivo de realizar una visualización de la variación de los datos en el tiempo. En este caso, he organizado los datos más relevantes de tres periodos estacionales, en primavera, en verano, y en invierno. Para extraer los datos que necesitaba he recurrido a Openrefine y Excel y para visualizarlos de forma gráfica he utilizado Datawrapper.</p>
 
-# Proceso de realización de práctica
+## Proceso de realización de práctica
 
 Para realizar estos gráficos he llevado a cabo el mismo procedimiento con rangos de fechas distintos, por tanto voy a explicar cómo he ejecutado este proceso de selección y visualización de datos y posteriormente analizaré los resultados obetenidos con estos gráficos. 
 
@@ -23,23 +23,23 @@ En Excel, primero he quitado los valores repetidos en _anular duplicados_, para 
 Por último, despues de seleccionar y guardar estos datos en Excel (en formato _csv_), he importado estas hojas de Excel en Datawrapper en la opción _upload data_ y para obtener el gráfico que  buscaba, he escondido las columnas que no me interesaban con la opción de _Hide column from visualization_, en este caso para quedarme solo con los tweets y sus repeticiones. Por tanto, se ha realizado el gráfico correspondiente con los datos introducidos, he cambiado el nombre de cada uno para titularlos con sus características. Y por último, para representarlos he elegido el grafico de barras en los tres para llevar a cabo un mejor analisis comparativo.
 
 
-# Resultado Gráficos
+## Resultado Gráficos
 
 El objetivo de la selección de estos datos es observar la difencia de las felicitaciones y de las festividades según el avance temporal del año, en un aspecto generalizado.
 
-## Gráfico 1
+### Gráfico 1
 
 ![alt text](https://github.com/luciahdezg/uc3m-periodismo-datos/blob/main/Imagenes/gla9d-tweets-primavera.png)
 
 En el primer gráfico predominan las felicitaciones de los días de la semana, en cabeza en el gráfico. Continua con felicitaciones generales y también las correspondientes con el Día del Padre y el Día de la madre que se encuentran en este espacio temporal, puesto que son el el mes de marzo y mayo, respetivamente. Finalemente, en los últimos aparece de forma escasa alguna felitación de la Pascua de Resurrección.
 
-## Gráfico 2 
+### Gráfico 2 
 
 ![alt text](https://github.com/luciahdezg/uc3m-periodismo-datos/blob/main/Imagenes/L58RC-tweets-verano-br-.png)
 
 En los tweets correspondientes a los meses de verano, predomina de nuevo las felicitaciones a los días de la semana, algunas correspondientes a festividades fuera de estas fechas y también algún feliz cumpleaños, en el que se habrá viralizado el _hastag_ correspondiente.
 
-## Gráfico 3
+### Gráfico 3
 
 ![alt text](https://github.com/luciahdezg/uc3m-periodismo-datos/blob/main/Imagenes/MfiXz-tweets-invierno-br-.png)
 
