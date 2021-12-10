@@ -1,0 +1,26 @@
+#Metodología de la última práctica de recopilación de trabajos de periodismo de datos
+
+Esta página web tiene el objetivo de ofrecer la función de recopilar los trabajos realizados hasta ahora en la asignatura de Periodismo de Datos. Para ello he adaptado las prácticas ya realizadas al formato html, mediante los siguientes pasos que voy a explicar.
+
+## Proceso de creación de la Página web
+
+En primer lugar, he organizado toda la información en carpetas que contenían las práctias y las imáganes que ya había utilizado previamente para que el proceso fuera más sencillo. Además he ordenado las práticas que había realizado en una carpeta llamada "prácticas" a través del comando mkdir y de esta manera se concretan las práctias en carpetas distintas para falicitar su uso. De la misma manera, he tenido que cambiar la ruta de las imágenes que había utilizado en cada práctica y he tendido que hacerlo una por una desde la terminal, en nano.
+
+A partir de tener los archivos ordenados, he creado una nueva carpeta llamada "docs" para guardar toda la información que tení
+a recopilada de antes y la que he requerido para hacer la pagina web, todas en formato html. Para llegar a ello, en la terminal, después de haber descargado el programa pandoc, hice que se convirtieran los archivos que tenía en formato .md a formato html y a partir de ello, he ido cambiando el formato de los archivos. Después de transformar los archivos, los he subido a github desde la terminal con los comandos git add, git commit y git push. 
+
+Después, una vez conseguidos estos archivos transformados, he llevado los archivos transformados a html de cada una prácticas y he creado un documento en la carpeta docs con cada una de ellas. Además de añadir estos documentos a la carpeta de docs, también he añadido la carpeta de imágenes que había organizado anteriormente. 
+
+Una vez terminado este proceso, siguiendo los pasos determinados, me he descargado la carpeta de  “bootstrap-5.1.3-examples”, mediante el enlace de ejemplos que estaba indicado en el repositorio de github las explicaciones de la práctica. En este caso, al ser un archivo n formato zip. he tenido que descomprimirlo merdiante el comando unzip -| en la terminal. Dentro de este archivo, he cogido las carpetas que iba a utilizar que como indicaba eran: sticky-footer-navbar, css y js y las he introducido en mi carpeta de docs mediante el comando mv.
+
+Una vez descargados los archivos que necesitaba he comenzado a cambiar el index.html para realizar los cambios que necesitaba para crear mi propia página web. En primer lugar, he cambiado el título y la descripción de la plantilla para personalizarlos con los mios. Seguidamente, he pegado cada en html, anteriormente transformadas, en el apartado de "begin page content".
+También he cambiado el apartado "header" para modificar el menú superior para que ponga mi nombre "Lucia Hernandez". Además he añadadido las rutas de cada práctica que había introducido anteriormente, y las he titulado con lo que quería que apareciese en la web que en este caso para indicar el nombre de cada práctica las he nombrado como "p1", "p2" y "p3".
+
+Por último, en cuanto a la web, he modificado la parte inferior donde ponía "place sticky footer content here" para poner "Universidad Carlos III". A partir de estas modificaciones, he guardado los cambios realizados
+
+Una vez guardado los cambios y realizado las últimas modificaciones he subido el contenido de las prácticas s github mediante los comandos git add "docs", git commit - y git push origin main. Después al subirlo a github he activado la función de la página web de mi repositorio yendo a settings y despues a Pages. Aquí he modificado las opciones a "main" y "docs" y he conseguido el link de la página web, https://luciahdezg.github.io/uc3m-periodismo-datos/.
+En este momento stoy escribiendo la metodología que posteriormente incluiré como archivo html con Pandoc, haciéndolo de la misma manera que los anteriores.
+
+Por último, después de comprobar si funcionaba todo correctamente he visto que las imágenes de la p3 no se ven, he probado cambiar las rutas, volver a introducir esta parte y poner en link en varios buscadores y no he sido capaz de resolver el problema. El resto de imágenes tienen el mismo formato en png y si se pueden ver, no se que ocurre con las últimas y he probado todas las opciones que he encontrado en internet, pero como digo no he sido capaz de resolverlo. Espero que valore el esfuerzo del resto del trabajo y no suponga un problema muy grave.
+Además también he podido comprobar que algunos de los cambios que he hecho en el index se ven cambiados en algunos buscadores, por ejemplo en safari no se cambian pero en mozilla si que se ven los cambios. He intentado ir resolviendo todos los problemas que me han ido apareciedo pero estos son únicos que no he podido modificar.
+De todas maneras, después de tanta desesperación con estos intentos he concluido que el resultado ha sido bastante satisfactorio y he notado mi progreso en el momento de intentar resolver los problemas, respecto a las prácticas anteriores, aunque algunos hayan sido sin éxito.
