@@ -1,4 +1,4 @@
-#Metodología de la última práctica de recopilación de trabajos de periodismo de datos
+# Metodología de la última práctica de recopilación de trabajos de periodismo de datos
 
 Esta página web tiene el objetivo de ofrecer la función de recopilar los trabajos realizados hasta ahora en la asignatura de Periodismo de Datos. Para ello he adaptado las prácticas ya realizadas al formato html, mediante los siguientes pasos que voy a explicar.
 
